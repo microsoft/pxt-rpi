@@ -1,10 +1,10 @@
 # pxt-rpi
 
-Various scripts for PXT on Raspbian
+Run [PXT](https://github.com/microsoft/pxt) from your pi!
 
 ## install.sh
 
-Installs the latest version of node.js, the PXT command line
+Installs the Node.js v0.6.x, the PXT command line
 and sets up the microbit target.
 
 ```
