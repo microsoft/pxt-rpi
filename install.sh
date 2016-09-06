@@ -12,13 +12,9 @@ sudo dpkg -i node_latest_armhf.deb
 # install PXT
 sudo npm install -g pxt
 # setup microbit
-if [! -d "microbit"]; then
-  mkdir microbit
-fi
+mkdir -p microbit
 cd microbit
 pxt target microbit
-if [! -d "projects"]; then
-mkdir projects
-fi
+mkdir -p projects
 cd projects
 
