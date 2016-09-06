@@ -10,7 +10,7 @@ and sets up the microbit target.
 ```
 git clone https://github.com/microsoft/pxt-rpi.git
 cd pxt-rpi
-./install.sh
+sh ./install.sh
 ```
 
 ## License
