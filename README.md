@@ -1,6 +1,6 @@
 # pxt-rpi
 
-Run [PXT](https://github.com/microsoft/pxt) from your pi!
+Run [MakeCode for micro:bit](https://github.com/microsoft/pxt) from your pi!
 
 ## install.sh
 
