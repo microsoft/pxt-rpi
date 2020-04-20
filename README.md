@@ -4,7 +4,7 @@ Run [PXT](https://github.com/microsoft/pxt) from your pi!
 
 ## install.sh
 
-Installs the Node.js v0.6.x, the PXT command line
+Installs Node.js v10.x, the PXT command line
 and sets up the microbit target.
 
 ```
